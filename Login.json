@@ -1,0 +1,13 @@
+{
+    "Login_information" :
+    [   
+        {
+        "Username":"admin",
+        "Password":"ubuntu"
+        },
+        {
+        "Username":"benni",
+        "Password":"1234"
+        }
+    ]
+}
